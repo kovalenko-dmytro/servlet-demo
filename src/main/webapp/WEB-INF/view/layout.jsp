@@ -21,8 +21,8 @@
             </header>
 
 		<div role="main" class="container">
-			<jsp:include page="/WEB-INF/view/pages/${param.content}.jsp" />
-		</div>
+        	<jsp:include page="/WEB-INF/view/pages/${param.content}.jsp" />
+        </div>
 
 		<footer class="footer">
             <div class="container">
